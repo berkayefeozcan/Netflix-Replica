@@ -1,7 +1,7 @@
 # Netflix-Replica
 This repository include 3rd project of 'Programming Lab-2' at Computer Engineering Kocaeli University
 
-## Özetçe 
+## Özetçemiz
 Bu projenin amacı veritabanı yönetim sistemlerinin yapısını anlamak ve bu sistemlerin çözümünü sağlamaktır.Bu projede birçok film ,dizi vb. programları izleme platformu geliştirilmiştir.Platforma kullanıcılar kayıt olup giriş yapabilmektedir. Kullanıcılar ve izlediği programlar veri tabanında ilişkisel olarak tutulmuştur.Veri tabanıda oluşturulan tablolar ve varlıklar arasındaki ilişkiler ileriki bölümlerde anlatılacaktır.Proje ms access veri tabanı yönetim sistemi kullanılarak ve java programlama dili ile geliştirilmiştir.Grafik kısmı ise swing kütüphanesi kullanılarak yazılmıştır.
 
 ## Abstract 
